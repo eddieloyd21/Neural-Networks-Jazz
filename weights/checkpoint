@@ -1,0 +1,2 @@
+model_checkpoint_path: "jazznet"
+all_model_checkpoint_paths: "jazznet"
